@@ -1,0 +1,31 @@
+@@ -0,0 +1,30 @@
+{
+  "symbol": "BBA",
+  "name": "BBA Market",
+  "type": "ERC20",
+  "address": "0x225927F8fa71d16EE07968B8746364D1d9F839bD",
+  "decimals": 18,
+  "website": "https://bba.plus",
+  "logo": {
+    "src": "https://bba.plus/0x73621534d00d80f675b7e868860f97edb3c03935.png",
+    "width": "120px",
+    "height": "120px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "bbacoder@gmail.com", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
